@@ -1,0 +1,6 @@
+This logo was generated using the following font:
+
+- Font Title: Merriweather
+- Font Author: Copyright 2016 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather), with Reserved Font Name "Merriweather".
+- Font Source: http://fonts.gstatic.com/s/merriweather/v25/u-440qyriQwlOrhSvowK_l5OeyxNV-bnrw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
